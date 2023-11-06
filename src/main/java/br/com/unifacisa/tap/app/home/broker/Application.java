@@ -4,15 +4,13 @@
  * 
  * Projeto Unidade II - Aplicação 01: Sistema Home Broker
  * 
- * Equipe:
- * @author Allan Dellon
- * @author Bruno Andrade
- * @author Lucas Lago
- * @author Thiago Almeida
- * @author Genildo Júnior
- * @author Mikael
- * @author Diogo
- * @author Thales
+ * [Equipe 01]
+ * @author Allan Dellon @author Bruno Andrade
+ * @author Lucas Lago @author Thiago Almeida
+ * 
+ * [Equipe 02]
+ * @author Genildo Júnior @author José Maykon
+ * @author Diogo Clemente @author Tales Noberto
  * 
  */
 
